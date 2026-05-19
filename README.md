@@ -4,9 +4,9 @@
 <!-- ║   ROHITSAH║ -->
 <!-- ╚══════════════════════════════════════╝ -->
 
-# Hi there, I'm **[YOUR NAME]** 👋
+# Hi there, I'm **[ROHIT SAH]** 👋
 
-### 🚀 [YOUR TAGLINE — e.g., Full Stack Developer | Open Source Enthusiast | Problem Solver]
+### 🚀 [YOUR TAGLINE — e.g., Internship on Gauro Technology | Engineering studetn | Problem Solver]
 
 <br/>
 
@@ -31,20 +31,20 @@
 ## 🙋‍♂️ About Me
 
 ```yaml
-Name        : "[YOUR FULL NAME]"
-Location    : "[YOUR CITY, COUNTRY]"
-Role        : "[YOUR JOB TITLE — e.g., Senior Software Engineer]"
-Company     : "[YOUR COMPANY / Freelance / Open to Work]"
-Experience  : "[X]+ years of professional experience"
-Education   : "[YOUR DEGREE] in [FIELD] from [UNIVERSITY]"
-Languages   : [English, Hindi, ...]  # Replace with your languages
+Name        : "[ROHIT KUMAR SAH TELI]"
+Location    : "[KATHMANDU, NEPAL]"
+Role        : "[OVERSHARE]"
+Company     : "[TECHRKST / Freelance / Open to Work]"
+Experience  : "5+ years of professional experience"
+Education   : "[DIPOLOMA IN COMPUTER ENGINEERING] in [2082] from [SHREE SECODARY SCHOOL(GOVERNMENT SCHOOL)]"
+Languages   : [English,Nepali,Hindi,Bhojpuri,Maitheli,..]  
 ```
 
-- 🔭 Currently working on **[YOUR CURRENT PROJECT / COMPANY]**
-- 🌱 Currently learning **[TECHNOLOGY YOU'RE LEARNING]**
-- 👯 Looking to collaborate on **[TYPE OF PROJECTS — e.g., Open Source, AI/ML]**
-- 💬 Ask me about **[YOUR EXPERTISE — e.g., React, Node.js, System Design]**
-- ⚡ Fun fact: **[SOMETHING INTERESTING ABOUT YOU]**
+- 🔭 Currently working on **[E-LIBRARY / TECHRKST]**
+- 🌱 Currently learning **[AI WITH ML]**
+- 👯 Looking to collaborate on **[ Open Source, AI/ML,ROBOTICS]**
+- 💬 Ask me about **[HTML,CSS,JAVASCRIPT,]**
+- ⚡ Fun fact: **[LEARN TODAY LEADING TOMRROW]**
 
 ---
 
@@ -61,6 +61,7 @@ Languages   : [English, Hindi, ...]  # Replace with your languages
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![php]https://img.shields.io/wordpress/plugin/required-php/:slug
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 **Frontend:**
@@ -80,9 +81,8 @@ Languages   : [English, Hindi, ...]  # Replace with your languages
 **Databases:**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
 
 **Cloud & DevOps:**
 
