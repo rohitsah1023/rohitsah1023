@@ -6,7 +6,7 @@
 
 # Hi there, I'm **[ROHIT SAH]** 👋
 
-### 🚀 [YOUR TAGLINE — e.g., Internship on Gauro Technology | Engineering studetn | Problem Solver]
+### 🚀 [YOUR TAGLINE — e.g., Internship on Gauro Technology | Engineering student | Problem Solver]
 
 <br/>
 
